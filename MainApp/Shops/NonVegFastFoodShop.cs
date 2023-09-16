@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace FastFoodShop_.Shops
 {
-    public class NonVegFastFood : FastFoodShop
+    public class NonVegFastFoodShop : FastFoodShop
     {
         public override Burger CreateBurger()
         {

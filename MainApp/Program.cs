@@ -9,7 +9,7 @@ class Program
     static void Main(string[] args)
     {
         Client customer = new Client(new VegFastFoodShop());
-        Client foodie = new Client(new NonVegFastFood());
+        Client foodie = new Client(new NonVegFastFoodShop());
         foodie.FoodDescription();
         Console.WriteLine($"Foodie : {foodie.FoodDescription()}");
         // Console.ReadKey();

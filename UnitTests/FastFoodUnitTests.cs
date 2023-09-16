@@ -16,7 +16,7 @@ namespace UnitTests
           
 
             // Arrange
-            FastFoodShop nonVegFastFoodShop = new NonVegFastFood();
+            FastFoodShop nonVegFastFoodShop = new NonVegFastFoodShop();
 
             // Act
             Burger burger = nonVegFastFoodShop.CreateBurger();
