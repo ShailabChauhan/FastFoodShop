@@ -1,0 +1,6 @@
+C:\Users\shail\source\repos\FastFoodShop\FastFoodShop\bin\Debug\FastFoodShop.dll
+C:\Users\shail\source\repos\FastFoodShop\FastFoodShop\bin\Debug\FastFoodShop.pdb
+C:\Users\shail\source\repos\FastFoodShop\FastFoodShop\obj\Debug\FastFoodShop.csproj.AssemblyReference.cache
+C:\Users\shail\source\repos\FastFoodShop\FastFoodShop\obj\Debug\FastFoodShop.csproj.CoreCompileInputs.cache
+C:\Users\shail\source\repos\FastFoodShop\FastFoodShop\obj\Debug\FastFoodShop.dll
+C:\Users\shail\source\repos\FastFoodShop\FastFoodShop\obj\Debug\FastFoodShop.pdb
