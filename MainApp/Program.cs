@@ -12,6 +12,5 @@ class Program
         Client foodie = new Client(new NonVegFastFoodShop());
         foodie.FoodDescription();
         Console.WriteLine($"Foodie : {foodie.FoodDescription()}");
-        // Console.ReadKey();
     }
 }
