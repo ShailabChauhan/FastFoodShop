@@ -8,9 +8,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        Client customer = new Client(new VegFastFoodShop());
-        Client foodie = new Client(new NonVegFastFoodShop());
-        foodie.FoodDescription();
+
+        if (args.Length > 0)
+        {
+            Console.WriteLine( "args passed" );
+        }
+        Client foodie = new(new NonVegFastFoodShop());
+       foodie.FoodDescription();
         Console.WriteLine($"Foodie : {foodie.FoodDescription()}");
     }
 }

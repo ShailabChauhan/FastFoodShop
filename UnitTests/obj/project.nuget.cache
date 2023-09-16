@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/QXxoW5ORoY2CqhMoTJwb0O027tSyQyDBk3IEjocrC1eqMvTl2nRR5yqX1ggWDkfg3ocvj9DcH9YY6W1QaaJEA==",
+  "dgSpecHash": "IHKgNXj7j6oI5Nci/6s1pL/rG/+opE72dEwzd2JTMD2fr7Quwb855GfnDkVHhDR+qehM65pniKG6CBsR0jwQDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shail\\source\\repos\\FastFoodShop\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\shail\\Desktop\\Sowftware project1\\New folder\\FastFoodShop-main\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shail\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\shail\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

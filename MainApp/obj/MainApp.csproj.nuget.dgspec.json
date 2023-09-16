@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shail\\source\\repos\\FastFoodShop\\MainApp\\MainApp.csproj": {}
+    "C:\\Users\\shail\\Desktop\\Sowftware project1\\New folder\\FastFoodShop-main\\MainApp\\MainApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shail\\source\\repos\\FastFoodShop\\MainApp\\MainApp.csproj": {
+    "C:\\Users\\shail\\Desktop\\Sowftware project1\\New folder\\FastFoodShop-main\\MainApp\\MainApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shail\\source\\repos\\FastFoodShop\\MainApp\\MainApp.csproj",
+        "projectUniqueName": "C:\\Users\\shail\\Desktop\\Sowftware project1\\New folder\\FastFoodShop-main\\MainApp\\MainApp.csproj",
         "projectName": "MainApp",
-        "projectPath": "C:\\Users\\shail\\source\\repos\\FastFoodShop\\MainApp\\MainApp.csproj",
+        "projectPath": "C:\\Users\\shail\\Desktop\\Sowftware project1\\New folder\\FastFoodShop-main\\MainApp\\MainApp.csproj",
         "packagesPath": "C:\\Users\\shail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shail\\source\\repos\\FastFoodShop\\MainApp\\obj\\",
+        "outputPath": "C:\\Users\\shail\\Desktop\\Sowftware project1\\New folder\\FastFoodShop-main\\MainApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shail\\AppData\\Roaming\\NuGet\\NuGet.Config",

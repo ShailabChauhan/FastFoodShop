@@ -2324,11 +2324,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shail\\source\\repos\\FastFoodShop\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\shail\\Desktop\\Sowftware project1\\New folder\\FastFoodShop-main\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "C:\\Users\\shail\\source\\repos\\FastFoodShop\\UnitTests\\UnitTests.csproj",
+      "projectPath": "C:\\Users\\shail\\Desktop\\Sowftware project1\\New folder\\FastFoodShop-main\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\shail\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shail\\source\\repos\\FastFoodShop\\UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\shail\\Desktop\\Sowftware project1\\New folder\\FastFoodShop-main\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shail\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2345,8 +2345,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\shail\\source\\repos\\FastFoodShop\\MainApp\\MainApp.csproj": {
-              "projectPath": "C:\\Users\\shail\\source\\repos\\FastFoodShop\\MainApp\\MainApp.csproj"
+            "C:\\Users\\shail\\Desktop\\Sowftware project1\\New folder\\FastFoodShop-main\\MainApp\\MainApp.csproj": {
+              "projectPath": "C:\\Users\\shail\\Desktop\\Sowftware project1\\New folder\\FastFoodShop-main\\MainApp\\MainApp.csproj"
             }
           }
         }

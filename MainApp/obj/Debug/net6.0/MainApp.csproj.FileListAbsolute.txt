@@ -12,3 +12,17 @@ C:\Users\shail\source\repos\FastFoodShop\MainApp\obj\Debug\net6.0\refint\MainApp
 C:\Users\shail\source\repos\FastFoodShop\MainApp\obj\Debug\net6.0\MainApp.pdb
 C:\Users\shail\source\repos\FastFoodShop\MainApp\obj\Debug\net6.0\MainApp.genruntimeconfig.cache
 C:\Users\shail\source\repos\FastFoodShop\MainApp\obj\Debug\net6.0\ref\MainApp.dll
+C:\Users\shail\Desktop\Sowftware project1\New folder\FastFoodShop-main\MainApp\bin\Debug\net6.0\MainApp.exe
+C:\Users\shail\Desktop\Sowftware project1\New folder\FastFoodShop-main\MainApp\bin\Debug\net6.0\MainApp.deps.json
+C:\Users\shail\Desktop\Sowftware project1\New folder\FastFoodShop-main\MainApp\bin\Debug\net6.0\MainApp.runtimeconfig.json
+C:\Users\shail\Desktop\Sowftware project1\New folder\FastFoodShop-main\MainApp\bin\Debug\net6.0\MainApp.dll
+C:\Users\shail\Desktop\Sowftware project1\New folder\FastFoodShop-main\MainApp\bin\Debug\net6.0\MainApp.pdb
+C:\Users\shail\Desktop\Sowftware project1\New folder\FastFoodShop-main\MainApp\obj\Debug\net6.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shail\Desktop\Sowftware project1\New folder\FastFoodShop-main\MainApp\obj\Debug\net6.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\shail\Desktop\Sowftware project1\New folder\FastFoodShop-main\MainApp\obj\Debug\net6.0\MainApp.AssemblyInfo.cs
+C:\Users\shail\Desktop\Sowftware project1\New folder\FastFoodShop-main\MainApp\obj\Debug\net6.0\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\shail\Desktop\Sowftware project1\New folder\FastFoodShop-main\MainApp\obj\Debug\net6.0\MainApp.dll
+C:\Users\shail\Desktop\Sowftware project1\New folder\FastFoodShop-main\MainApp\obj\Debug\net6.0\refint\MainApp.dll
+C:\Users\shail\Desktop\Sowftware project1\New folder\FastFoodShop-main\MainApp\obj\Debug\net6.0\MainApp.pdb
+C:\Users\shail\Desktop\Sowftware project1\New folder\FastFoodShop-main\MainApp\obj\Debug\net6.0\MainApp.genruntimeconfig.cache
+C:\Users\shail\Desktop\Sowftware project1\New folder\FastFoodShop-main\MainApp\obj\Debug\net6.0\ref\MainApp.dll
