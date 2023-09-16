@@ -12,19 +12,16 @@ namespace FastFoodShop_.Shops
     {
         public override Burger CreateBurger()
         {
-            //throw new NotImplementedException();
             return new VegBurger();
         }
 
         public override Momos CreateMomos()
         {
-           // throw new NotImplementedException();
             return new VegMomos();
         }
 
         public override Sandwich CreateSandwich()
         {
-           // throw new NotImplementedException();
             return new VegSandwich();
         }
     }
