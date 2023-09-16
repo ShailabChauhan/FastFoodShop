@@ -9,12 +9,15 @@ class Program
     static void Main(string[] args)
     {
 
-        if (args.Length > 0)
-        {
-            Console.WriteLine( "args passed" );
-        }
-        Client foodie = new(new NonVegFastFoodShop());
-       foodie.FoodDescription();
-        Console.WriteLine($"Foodie : {foodie.FoodDescription()}");
+         if (args.Length > 0)
+         {
+             Console.WriteLine( "args passed" );
+         }
+         Client customer = new(new VegFastFoodShop());
+         Client foodie = new(new NonVegFastFoodShop());
+         foodie.FoodDescription();
+         customer.FoodDescription();
+         Console.WriteLine($"Foodie : {foodie.FoodDescription()}");
+         Console.WriteLine($"Customer : {customer.FoodDescription()}");
     }
 }
